@@ -8,7 +8,7 @@ The **GemChallenge API** is designed to determine energy production from various
 
 1. **Clone the Git repository** for the project:
     ```bash
-    git clone https://github.com/....
+    git clone https://github.com/Ilias-ElAyadi/EngieProject
     ```
 
 2. **Restore the NuGet packages**:
